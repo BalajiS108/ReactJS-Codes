@@ -1,0 +1,2 @@
+// In React JS useRef is used to directly change in the DOM without 
+writing JS code.

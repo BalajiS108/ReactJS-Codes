@@ -20,7 +20,8 @@ const AssignmentForm = () => {
       return {
         ...prevState,
         [name]: value,
-        ...prevState,
+        // ...pr
+        // evState,
       };
     });
   };

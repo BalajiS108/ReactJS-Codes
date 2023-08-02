@@ -1,0 +1,12 @@
+1.On small level context Api is useful but on larger level Redux shd use.
+2. It allows third party 
+3.side effects- whichever is not in react 
+
+Imp Terms:=
+UI (View)
+Actions
+Reducers/Slice
+Store
+SideEffects
+
+Observable Pattern or Publisher/Subscriber Model
